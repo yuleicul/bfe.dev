@@ -1,6 +1,6 @@
 # BFE.dev
 
-Visualizations to solutions.
+Visualizations to solutions, made with [excalidraw-claymate](https://github.com/dai-shi/excalidraw-claymate).
 
 
 - https://bigfrontend.dev/problem/implement-curry-with-placeholder

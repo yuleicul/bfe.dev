@@ -1,7 +1,8 @@
 # BFE.dev
 
 Visualizations to solutions, made with [excalidraw-claymate](https://github.com/dai-shi/excalidraw-claymate).
-And some explaining videos.
+
+And some explaining videos, blogs, etc.
 
 
 - https://bigfrontend.dev/problem/implement-curry-with-placeholder
@@ -9,5 +10,9 @@ And some explaining videos.
 
 
 - https://bigfrontend.dev/problem/implement-basic-throttle
-  
-  https://youtu.be/cjIswDCKgu0
+  - code: https://youtu.be/cjIswDCKgu0
+  - visualized: https://css-tricks.com/debouncing-throttling-explained-examples/
+  - throttled Kirby:
+    
+    ![excalidraw-claymate-kirby](https://github.com/yuleicul/bfe.dev/assets/27288153/672e9386-6094-45e1-ac00-8a877b60a044)
+

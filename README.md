@@ -20,3 +20,33 @@ more to read/watch:
 - code: https://youtu.be/cjIswDCKgu0
 - visualized: https://css-tricks.com/debouncing-throttling-explained-examples/
 
+### [Can you `shuffle()` an array?](https://bigfrontend.dev/problem/can-you-shuffle-an-array)
+
+```javascript
+// Fisher-Yates
+function shuffle(arr) {
+  for(let i = arr.length - 1; i >= 0; i--) {
+    const index = Math.floor(Math.random() * (i + 1))
+    ;[arr[i], arr[index]] = [arr[index], arr[i]]
+  }
+  return arr
+}
+
+// Why this doesn't work?
+// There's no problem with `const index = Math.floor(Math.random() * arr.length)`
+// Every position does get a correct possibility,
+// but the number in the position changes because of `splice`
+// Fisher-Yates can make sure the number in some position keep the same
+// function shuffle(arr) {
+//   const result = []
+  
+//   const length = arr.length
+//   for (let i = 0; i < length; i++) {
+//     const index = Math.floor(Math.random() * arr.length)
+//     result.push(arr[index])
+//     arr.splice(index, 1)
+//   }
+
+//   return result
+// }
+```

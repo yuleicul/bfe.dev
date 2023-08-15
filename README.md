@@ -14,7 +14,7 @@ And some explaining videos, blogs, etc.
 
 throttled Kirby:
     
-![excalidraw-claymate-kirby](https://github.com/yuleicul/bfe.dev/assets/27288153/672e9386-6094-45e1-ac00-8a877b60a044)
+![excalidraw-claymate-throttle](https://github.com/yuleicul/bfe.dev/assets/27288153/72bdc0f5-3bf5-49f1-883d-7a79956b5b4e)
 
 more to read/watch:
 - code: https://youtu.be/cjIswDCKgu0

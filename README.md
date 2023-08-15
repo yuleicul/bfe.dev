@@ -53,5 +53,5 @@ function shuffle(arr) {
 
 ### [Decode message](https://bigfrontend.dev/problem/decode-message)
 
-![excalidraw-claymate-decode](https://github.com/yuleicul/bfe.dev/assets/27288153/d1788218-05cc-4869-90bf-96065027b5be)
+![excalidraw-claymate-decoder](https://github.com/yuleicul/bfe.dev/assets/27288153/3cd877a2-6a54-407c-8a74-a9f62ba9ac2b)
 

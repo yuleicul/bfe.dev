@@ -55,3 +55,5 @@ function shuffle(arr) {
 
 ![excalidraw-claymate-decoder](https://github.com/yuleicul/bfe.dev/assets/27288153/3cd877a2-6a54-407c-8a74-a9f62ba9ac2b)
 
+### [Detect data type in JavaScript](https://bigfrontend.dev/problem/detect-data-type-in-JavaScript)
+![image](https://github.com/yuleicul/bfe.dev/assets/27288153/8988f888-9b58-44a2-b2b3-41fa54cb9a87)
